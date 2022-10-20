@@ -29,4 +29,4 @@ Open AWS API Gateway and create a HTTP API. Go back to AWS Lambda and add in the
 
 The resulting API endpoint should execute the Lambda function, which then calls on the bucket, obtains the file's url, and responds with the image in its response body.
 
-![image](https://user-images.githubusercontent.com/102551944/196841774-abebebd9-cb75-4b93-90fe-5bbe914abcd3.png)
+![image](https://user-images.githubusercontent.com/102551944/196842439-a211bd1e-312a-4949-9237-777b6b1e2ed8.png)
